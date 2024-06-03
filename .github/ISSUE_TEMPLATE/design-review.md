@@ -12,3 +12,5 @@ assignees: ''
 Describe the target system of the review.
 
 ## Review points
+
+Describe the points to be reviewed.
